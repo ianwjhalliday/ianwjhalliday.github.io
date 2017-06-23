@@ -1,0 +1,3 @@
+[submodule "zenburn-palette"]
+	path = zenburn-palette
+	url = https://github.com/ianwjhalliday/zenburn-palette
